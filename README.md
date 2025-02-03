@@ -131,3 +131,5 @@ Buka browser dan akses:
 http://your_domain_or_ip
 ````
 Jika semuanya berjalan lancar, aplikasi Flask Anda sudah berhasil dihosting di Ubuntu Server!
+Jika ada kendala atau ingin tambahan seperti [HTTPS dengan Let's Encrypt](https://github.com/saiful2030/Hosting-Flask-di-Ubuntu-Server-dengan-Let-s-Encrypt)
+
